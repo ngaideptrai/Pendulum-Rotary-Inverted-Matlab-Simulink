@@ -1,1 +1,1 @@
-# Pendulum-Rotary-Inverted-on-l-c-ng-c-quay-Matlab-Simulink
+# Pendulum-Rotary-Inverted-In-Matlab-Simulink
